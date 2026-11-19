@@ -6,16 +6,16 @@ Universal Link opens. Swift, iOS 13 and later. The SDK never fingerprints device
 ## Install
 
 **Swift Package Manager.** In Xcode: File › Add Package Dependencies, enter `https://github.com/marketils/marketils-ios`,
-choose version 0.2.0 or later, and add the `MarketilsSDK` library to your app target. Or in `Package.swift`:
+choose version 0.3.0 or later, and add the `MarketilsSDK` library to your app target. Or in `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/marketils/marketils-ios", from: "0.2.0")
+.package(url: "https://github.com/marketils/marketils-ios", from: "0.3.0")
 ```
 
 **CocoaPods.**
 
 ```ruby
-pod 'Marketils', :podspec => 'https://maven.marketils.com/ios/0.2.0/Marketils.podspec'
+pod 'Marketils', :podspec => 'https://maven.marketils.com/ios/0.3.0/Marketils.podspec'
 ```
 
 ## Start
