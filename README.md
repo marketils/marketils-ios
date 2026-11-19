@@ -28,4 +28,4 @@ Marketils.start(MarketilsConfig(sdkKey: "mk_...", sdkSecret: secret))
 
 Setup (Info.plist postback endpoints, Associated Domains, consent, events and revenue): https://docs.marketils.com/sdks/ios/
 
-This repository holds the package manifest; the SDK ships as a signed binary XCFramework. MIT License.
+This repository holds the package manifest; the SDK ships as a binary XCFramework. MIT License.
