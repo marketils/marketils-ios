@@ -7,6 +7,6 @@ let package = Package(
     platforms: [.iOS(.v13)],
     products: [.library(name: "MarketilsSDK", targets: ["MarketilsSDK"])],
     targets: [
-        .binaryTarget(name: "MarketilsSDK", url: "https://maven.marketils.com/ios/0.3.0/MarketilsSDK-0.3.0.xcframework.zip", checksum: "39e64e07178d88b52bb628cb79a3fb89147f64d88be83c23f2d15a686e165885"),
+        .binaryTarget(name: "MarketilsSDK", url: "https://maven.marketils.com/ios/0.4.0/MarketilsSDK-0.4.0.xcframework.zip", checksum: "dba0e1db860585fc22e3aafd4ec38a13533264b605f1ffdbd26984a61e95a021"),
     ]
 )
